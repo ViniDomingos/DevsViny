@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevsViny
 - 👀 I’m interested in cloud computing, studies completed on AWS and Google Cloud.
-- 🌱 I’m currently learning,at the current time i study Java.
+- 🌱 I’m currently learning,at the current time i study Java, C# and Frameworks of languages.
 
 <!---
 DevsViny/DevsViny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
